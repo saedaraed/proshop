@@ -1,0 +1,24 @@
+[{
+        "id": 1,
+        "title": "Apple iPhone 11 Pro 256GB Memory",
+        "price": 499.99,
+        "pargraph": "Pro cameras.Pro display. Pro performance.",
+        "image": "../Assets/Assets/img8.PNG"
+
+    },
+    {
+        "id": 2,
+        "title": " Apple Airpods Wireless Bluetooth Headset",
+        "price": 399.99,
+        "pargraph": "Lightning-fast download speed with super-fast SSD storage",
+        "image": "../Assets/Assets/img7.PNG"
+    },
+    {
+        "id": 3,
+        "title": "Sony Playstation 4 Pro White Version",
+        "price": 399.99,
+        "pargraph": "Pro cameras.Pro display. Pro performance.",
+        "image": "../Assets/Assets/img6.PNG"
+
+    }
+]

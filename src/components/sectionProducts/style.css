@@ -1,0 +1,38 @@
+.SectionProduct {
+    background-color: #F7F8FC;
+    padding: 20px 0px 50px 0px;
+}
+
+.section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+
+.contentBorder {
+    width: 85%;
+    margin: 0 auto;
+}
+
+.SectionProduct h3 {
+    font-size: 28px;
+    color: #242424;
+    position: relative;
+}
+
+hr {
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+}
+
+.SectionProduct h3::before {
+    content: "";
+    height: 5px;
+    width: 10%;
+    margin-left: 7%;
+    background-color: #FCDD06;
+    position: absolute;
+    top: 160%;
+}

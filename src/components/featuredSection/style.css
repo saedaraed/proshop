@@ -1,0 +1,13 @@
+.FeaturedSection h3 {
+    text-align: left;
+}
+
+.FeaturedSection h3::before {
+    content: "";
+    height: 5px;
+    width: 10%;
+    margin-left: 0%;
+    background-color: #FCDD06;
+    position: absolute;
+    top: 160%;
+}

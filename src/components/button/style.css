@@ -1,0 +1,33 @@
+/* button {
+    background-color: #F2F2F2;
+    height: 42px;
+    border: none;
+    width: 224px;
+    border-radius: 10px;
+    margin-left: 10px;
+    color: #242424;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #FCDD06;
+} */
+
+button {
+    height: 42px;
+    min-width: 200px;
+    box-sizing: border-box;
+    background-color: #fcdd06;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    color: #242424;
+    cursor: pointer;
+}
+
+.white {
+    background: #f2f2f2;
+    color: #000;
+}

@@ -1,0 +1,35 @@
+.card {
+    /* width: 32%; */
+    height: 455px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 16px;
+    overflow: hidden;
+    /* margin-top: 20px; */
+}
+
+.card .add {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 42px;
+    gap: 10px;
+}
+
+.card img {
+    width: 60%;
+    /* height: 50%; */
+    object-fit: cover;
+}
+
+.card p {
+    font-size: 18px;
+    color: #242424;
+}
+
+h5 {
+    color: #242424;
+    font-size: 20px;
+    margin: 15px 0px;
+    /* padding: 0; */
+}

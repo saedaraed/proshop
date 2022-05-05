@@ -1,0 +1,13 @@
+.Login .contentBorder {
+    display: flex;
+    flex-direction: row;
+}
+
+.Login .contentBorder .form {
+    width: 30%;
+}
+
+.Login .contentBorder img {
+    width: 50%;
+    margin: 0 auto;
+}

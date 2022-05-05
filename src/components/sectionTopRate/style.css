@@ -1,0 +1,22 @@
+.SectionTopRate {
+    background-color: #fff;
+}
+
+.SectionTopRate .section {
+    border: solid 1px #FCDD06;
+    border-radius: 16px;
+}
+
+.topTitle {
+    text-align: left;
+}
+
+.SectionTopRate h3::before {
+    content: "";
+    height: 5px;
+    width: 10%;
+    margin-left: 0%;
+    background-color: #FCDD06;
+    position: absolute;
+    top: 160%;
+}

@@ -1,0 +1,29 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.form h2 {
+    font-size: 50px;
+    margin: 10px 0px;
+}
+
+.form p {
+    /* margin: 0; */
+    font-size: 25px;
+    color: #707070;
+}
+
+.logBut {
+    background-color: aqua;
+}
+
+.form label {
+    margin-bottom: 10px;
+}
+
+.form input {
+    height: 30px;
+    margin-bottom: 20px;
+}

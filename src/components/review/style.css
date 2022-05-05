@@ -1,0 +1,11 @@
+.Review h3 {
+    font-size: 25px;
+    color: #242424;
+    text-align: left;
+}
+
+.Review .cont {
+    border: solid 1px #bcbcbc;
+    padding: 20px 40px;
+    text-align: left;
+}
